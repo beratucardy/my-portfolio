@@ -56,6 +56,14 @@ a:hover {
   color: #1a1a1a;
 }
 
+a:active {
+  color: #1a1a1a;
+}
+
+a:focus {
+  color: #1a1a1a;
+}
+
 .project-info h2 {
   font-size: 16px;
   font-weight: 700;
