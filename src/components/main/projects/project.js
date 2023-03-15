@@ -4,9 +4,11 @@ const Project = ({ name, desc, github, desc2 }) => {
   return (
     <>
       <div className="project-info clearfix">
-        <h2>{name}</h2>
+        <h2>
+          <a href="https://beratucar6.netlify.app/">{name}</a>
+        </h2>
         <div>{desc}</div>
-        <a href="https://github.com/beratucardy/spa-project">{github}</a>
+        <a href={github}>{github}</a>
         <div>{desc2}</div>
       </div>
     </>
