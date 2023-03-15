@@ -1,0 +1,16 @@
+.about .skills .item .skill-info h3 {
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  margin: 0;
+}
+
+.about .skills .item .skill-info span {
+  font-family: "Poppins", sans-serif;
+  font-size: 12px;
+  font-weight: 300;
+  color: #9c9c9c;
+}
+
+.pull-left {
+  margin-bottom: 1rem;
+}

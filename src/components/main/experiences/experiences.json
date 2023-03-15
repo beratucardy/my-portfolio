@@ -1,0 +1,14 @@
+[
+  {
+    "company": "Gaming Pro Market",
+    "title": "Front-End Developer",
+    "date": "February, 2023 - present",
+    "desc": "Worked as part of the team on projects; receive regular guidance. Worked closely with team members to create consistent, reusable, and maintainable code; designed new software systems or updates to existing systems. Coordinated and participated in implementation, testing, and support. Responsible for understanding how their work fits into the project objectives. Ensured each build functions correctly on mobile, tablet, and desktop devices."
+  },
+  {
+    "company": "Let's Rental Car",
+    "title": "Front-End Developer",
+    "date": "January, 2023 - February, 2023",
+    "desc": "Followed agile & scrum methods for the development of the product. Involving in building multiple UI components from design stage to production stage. Performed validation of completed sites including the debugging and testing of code. Designed a responsive website using Bootstrap grid system to layout contents that fit different devices including mobile, tablet and desktop. Cross-browser tested sites in Microsoft Edge, Safari, Firefox, Chrome and mobile browsers."
+  }
+]
