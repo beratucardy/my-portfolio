@@ -5,12 +5,12 @@ const Intro = () => {
   return (
     <div className="intro">
       <p>
-        Junior Front-End Developer with experience in the software development
-        lifecycle (SDLC) in developing and designing user experiences of
-        Internet/Intranet applications using HTML, CSS, Bootstrap, JavaScript,
-        SASS, React.js, Redux.js MeetingW3C standards. Excellent analytical and
-        logical programming skills with a good understanding at the conceptual
-        level.
+        Junior Front-End Developer with 1+ year experience in the software
+        development lifecycle (SDLC) in developing and designing user
+        experiences of Internet/Intranet applications using HTML, CSS,
+        Bootstrap, JavaScript, SASS, React.js, Redux.js MeetingW3C standards.
+        Excellent analytical and logical programming skills with a good
+        understanding at the conceptual level.
       </p>
 
       <ul className="info">

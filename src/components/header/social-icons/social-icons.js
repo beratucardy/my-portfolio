@@ -18,7 +18,7 @@ const SocialIcons = () => {
           </a>
         </li>
         <li>
-          <a href="https://medium.com/@ownertr55" target={"_blank"}>
+          <a href="https://medium.com/@dev.beratucar" target={"_blank"}>
             <SiMedium />
           </a>
         </li>

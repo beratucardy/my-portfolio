@@ -8,7 +8,7 @@ const SectionHeader = ({ title, isButtonVisible }) => {
       <h2>{title}</h2>
       {isButtonVisible && (
         <a
-          href="assets/Berat_Ucar_CV.pdf"
+          href="assets/Berat_Ucar_Resume.pdf"
           className="resume-download"
           data-toggle="tooltip"
           data-placement="bottom"
