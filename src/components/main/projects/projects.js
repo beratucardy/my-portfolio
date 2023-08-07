@@ -13,6 +13,7 @@ const Projects = () => {
           {projects.map((project, index) => (
             <div className="col-md-12 col-sm-12 col-xs-12 item" key={index}>
               <Project
+                url={project.url}
                 name={project.tool}
                 desc={project.desc}
                 github={project.github}
