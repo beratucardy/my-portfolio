@@ -5,7 +5,7 @@ const Intro = () => {
   return (
     <div className="intro">
       <p>
-        Front-End Developer with 1+ year experience in the software development
+        Front-End Developer with 2+ year experience in the software development
         lifecycle (SDLC) in developing and designing user experiences of
         Internet/Intranet applications using HTML, CSS, Bootstrap, JavaScript,
         SASS, React.js, Redux.js MeetingW3C standards. Excellent analytical and
