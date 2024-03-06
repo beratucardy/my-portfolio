@@ -7,10 +7,16 @@ import "./testimonials.css";
 const Testimonials = () => {
   return (
     <section id="testimonials" className="testimonials">
-      <SectionHeader title="Testimonials" isButtonVisible={false} />
+      <SectionHeader title="References" isButtonVisible={false} />
       <div className="testimonial-carousel">
         {testimonials.map((test, index) => (
-          <Testimonial img={test.img} desc={test.desc} name={test.name} />
+          <Testimonial
+            job={test.job}
+            name={test.name}
+            org={test.org}
+            tel={test.tel}
+            mail={test.mail}
+          />
         ))}
       </div>
     </section>

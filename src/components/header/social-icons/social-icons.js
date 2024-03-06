@@ -17,11 +17,6 @@ const SocialIcons = () => {
             <TfiGithub />
           </a>
         </li>
-        <li>
-          <a href="https://medium.com/@dev.beratucar" target={"_blank"}>
-            <SiMedium />
-          </a>
-        </li>
       </ul>
     </div>
   );

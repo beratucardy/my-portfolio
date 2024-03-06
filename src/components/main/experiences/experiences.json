@@ -9,8 +9,26 @@
     "desc": "Provided personalized guidance to aspiring frontend developers through one-on-one sessions, aiding them in preparing effective resumes and LinkedIn profiles to enhance their professional branding. Conducted individualized mock interviews, offering constructive feedback and tailored strategies to help students develop strong interview skills and boost their confidence. Collaborated with students in designing and executing frontend projects as part of the bootcamp curriculum, offering hands-on assistance and mentorship to ensure project success. Mentored students in refining their frontend coding skills, offering guidance on HTML, CSS, JavaScript, and popular frontend libraries/frameworks to foster their technical proficiency. Delivered comprehensive lessons on interview preparation techniques, including behavioral and technical aspects, resulting in increased student performance in real job interviews. Assisted students in preparing for market entry by offering insights into industry trends, resume optimization, and job market navigation, leading to improved placement rates."
   },
   {
+    "company": "BudunAI Bilişim ve Teknoloji San. Tic. Ltd. Şti.",
+    "title": "Frontend Developer",
+    "date": "September, 2023 - March, 2024",
+    "location": "Ankara, Turkey",
+    "locationType": "Onsite",
+    "jobType": "Full-time",
+    "desc": "Contributed to the development of an artificial intelligence-enhanced job search platform similar to LinkedIn for Tubitak, utilizing cutting-edge technologies and innovative design principles to create a seamless user experience. Led the design and implementation of the company's website, incorporating modern web development techniques and responsive design to ensure compatibility across various devices and browsers. Managed projects efficiently using Trello, collaborating with team members and stakeholders to prioritize tasks, track progress, and meet project milestones effectively. Spearheaded the development of a mobile gaming application, leveraging mobile development frameworks and best practices to deliver a high-quality and engaging gaming experience to users."
+  },
+  {
+    "company": "Rent a Car Project",
+    "title": "Mobile Developer",
+    "date": "July, 2023 - September, 2023",
+    "location": "United States",
+    "locationType": "Remote",
+    "jobType": "Internship",
+    "desc": "Led the development of a mobile application for a Rent A Car project, implementing user-friendly features and ensuring seamless performance across platforms. Collaborated with cross-functional teams to design and develop the mobile application, enhancing user experience and optimizing functionality. Utilized agile methodologies to manage the project, ensuring timely delivery and meeting client requirements effectively. Implemented innovative solutions to improve the application's performance and user engagement, resulting in positive feedback from users. Conducted thorough testing and debugging to ensure the application's reliability and performance under various conditions."
+  },
+  {
     "company": "E-Commerce Project",
-    "title": "Front-End Developer",
+    "title": "Frontend Developer",
     "date": "March, 2023 - June, 2023",
     "location": "United States",
     "locationType": "Remote",
@@ -19,7 +37,7 @@
   },
   {
     "company": "Rent a Car Project",
-    "title": "Front-End Developer",
+    "title": "Frontend Developer",
     "date": "October, 2022 - March, 2023",
     "location": "United States",
     "locationType": "Remote",

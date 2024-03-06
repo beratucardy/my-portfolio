@@ -1,17 +1,23 @@
 [
   {
-    "img": "assets/images/testimonial-img1.jpg",
-    "desc": "Pri diam soluta molestie at, id melius ponderum mel, nominavi adipisci partiendo per te. No usu doctus dolorem liberavisse, vim nusquam invidunt id.",
-    "name": "John Doe"
+    "job": "Founder, Associate Professor, University Lecturer, Author",
+    "org": "Gazi University, OSTİM Teknik University, Adnan Menderes University, Ankara Haci Bayram Veli University, BudunAI",
+    "tel": "+905323632446",
+    "mail": "osebetci@adu.edu.tr",
+    "name": "Doç. Dr. Özel Sebetci"
   },
   {
-    "img": "assets/images/testimonial-img2.jpg",
-    "desc": "Pri diam soluta molestie at, id melius ponderum mel, nominavi adipisci partiendo per te. No usu doctus dolorem liberavisse, vim nusquam invidunt id.",
-    "name": "John Doe"
+    "job": "Account Manager",
+    "org": "TalenTech Solutions",
+    "tel": "+15852826326",
+    "mail": "mike.clain@talentechsolutions.com",
+    "name": "Mike Clain"
   },
   {
-    "img": "assets/images/testimonial-img3.jpg",
-    "desc": "Pri diam soluta molestie at, id melius ponderum mel, nominavi adipisci partiendo per te. No usu doctus dolorem liberavisse, vim nusquam invidunt id.",
-    "name": "John Doe"
+    "job": "Account Manager",
+    "org": "Rainpark Solutions",
+    "tel": "+15853161820",
+    "mail": "ali.aker@rainparksolutions.com",
+    "name": "Ali Aker"
   }
 ]
