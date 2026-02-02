@@ -1,35 +1,70 @@
 [
   {
     "url": "https://www.budunai.com/",
-    "tool": "BudunAI Website Project",
-    "desc": "BudunAI Website Project"
+    "tool": "BudunAI Official Website Project",
+    "desc": "Official Website of BudunAI Company"
   },
   {
     "url": "https://beratucar-coffee-shop.vercel.app/",
     "tool": "Coffee Shop Project",
-    "desc": "Single Page Application Project",
+    "desc": "My purpose in making this project was to improve my React abilities.",
     "github": "https://github.com/beratucardy/coffee-shop-project",
-    "desc2": "You can visit my github for more projects and apps like this."
+    "desc2": ""
+  },
+  {
+    "url": "https://www.gamingpromarket.com/",
+    "tool": "E-Commerce Project",
+    "desc": "Basic React.js Project for learning React.js",
+    "github": "",
+    "desc2": ""
+  },
+  {
+    "url": "https://vue-http-demo-b3693.web.app/coaches",
+    "tool": "Find a Coach Project",
+    "desc": "Basic Vue.js Project for Learning Vue.js. Vuex - Vue Router - Firebase",
+    "github": "",
+    "desc2": ""
   },
   {
     "url": "https://beratucar7.netlify.app/",
     "tool": "Portfolio/Resume Project",
-    "desc": "Single Page Application Project",
-    "github": "https://github.com/beratucardy",
-    "desc2": "You can visit my github for more projects and apps like this."
+    "desc": "My purpose in making this project was to improve my React abilities. Portfolio/Resume does not represent me.",
+    "github": "https://github.com/beratucardy/portfolio-resume-project",
+    "desc2": ""
+  },
+  {
+    "url": "https://beratucar-product-manager.vercel.app/",
+    "tool": "Product Manager Project",
+    "desc": "Basic Next.js Project for Learning Next.js",
+    "github": "",
+    "desc2": ""
+  },
+  {
+    "url": "https://www.letsrentalcar.com/",
+    "tool": "Rent a Car Project",
+    "desc": "Basic React.js Project for learning React.js. A mobile version of this Rent a Car application developed using React Native.",
+    "github": "",
+    "desc2": ""
   },
   {
     "url": "https://beratucar6.netlify.app/",
     "tool": "SPA Project",
-    "desc": "Single Page Application Project",
+    "desc": "My purpose in making this project was to improve my HTML, CSS, Bootstrap, JavaScript abilities.",
     "github": "https://github.com/beratucardy/spa-project",
-    "desc2": "You can visit my github for more projects and apps like this."
+    "desc2": ""
   },
   {
     "url": "https://beratucar4.netlify.app/",
     "tool": "Unlem Akademi Project",
-    "desc": "Single Page Application Project",
+    "desc": "My purpose in making this project was to improve my HTML, CSS, Bootstrap abilities.",
     "github": "https://github.com/beratucardy/unlem-akademi-project",
-    "desc2": "You can visit my github for more projects and apps like this."
+    "desc2": ""
+  },
+  {
+    "url": "https://www.kariyo.io/",
+    "tool": "AI Based Linkedin Project",
+    "desc": "Project Submitted to Tübitak Similar to LinkedIn",
+    "github": "",
+    "desc2": ""
   }
 ]

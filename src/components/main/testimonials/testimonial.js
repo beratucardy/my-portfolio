@@ -9,7 +9,7 @@ const Testimonial = ({ job, org, name, tel, mail }) => {
           <p>{job}</p>
           <p>{org}</p>
           <span>
-            <a href={`tel:${tel}`}>{tel}</a> -{" "}
+            <a href={`tel:${tel}`}>{tel}</a> {mail ? "-" : ""}{" "}
             <a href={`mailto:${mail}`}>{mail}</a>
           </span>
         </div>

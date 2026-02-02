@@ -5,16 +5,17 @@ const Intro = () => {
   return (
     <div className="intro">
       <p>
-        Frontend Developer with over 2 years of experience in the software
-        development lifecycle (SDLC) and Web Development, specializing in
-        developing and designing user experiences for Internet/Intranet
-        applications. Proficient in Node.js, HTML (HTML5), CSS (CSS3),
-        Bootstrap, JavaScript, SASS, React.js, React Native, Redux.js, Next.js,
-        and Git, with a strong adherence to W3C standards. Possesses excellent
-        analytical and logical programming skills with a solid conceptual
-        understanding. Demonstrates leadership, communication, teamwork, and
-        problem-solving abilities, creating a collaborative environment that
-        drives projects to success.
+        Frontend Developer with 3+ years of professional experience in building
+        scalable and maintainable web applications. Specialized in modern
+        JavaScript and TypeScript-based frameworks, particularly Vue.js and
+        Nuxt.js, with hands-on experience in React.js and Next.js projects.
+        Experienced in developing enterprise-level admin panels, data-driven
+        interfaces, and complex user workflows. Familiar with Node.js,
+        Express.js, MongoDB, and MySQL, supporting effective collaboration with
+        backend teams and API-driven development. Strong focus on clean code,
+        performance, and maintainable architecture. Effective team player with
+        solid problem-solving skills and a strong understanding of frontend best
+        practices.
       </p>
 
       <ul className="info">

@@ -12,7 +12,7 @@ const Skills = () => {
         <div className="row">
           {skills.map((skill, index) => (
             <div className="col-md-12 col-sm-12 col-xs-12 item" key={index}>
-              <Skill name={skill.tool} />
+              <Skill name1={skill.name1} name2={skill.name2} primarySkills={skill.primarySkills} backendKnowledge={skill.backendKnowledge} />
             </div>
           ))}
         </div>

@@ -11,9 +11,9 @@ const Project = ({ url, name, desc, github, desc2 }) => {
         </h2>
         <div>{desc}</div>
         <a href={github} target={"_blank"}>
-          {github}
+          {github ? github : ""}
         </a>
-        <div>{desc2}</div>
+        <div>{desc2 ? desc2 : ""}</div>
       </div>
     </>
   );

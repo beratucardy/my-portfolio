@@ -1,23 +1,16 @@
 [
   {
-    "job": "Founder, Associate Professor, University Lecturer, Author",
-    "org": "Gazi University, OSTİM Teknik University, Adnan Menderes University, Ankara Haci Bayram Veli University, BudunAI",
-    "tel": "+905323632446",
-    "mail": "osebetci@adu.edu.tr",
-    "name": "Doç. Dr. Özel Sebetci"
+    "job": "Director of Software Engineering",
+    "org": "PayTR Ödeme ve Elektronik Para Kuruluşu A.Ş.",
+    "tel": "+90 532 513 31 31",
+    "mail": "zafergolgeli@hotmail.com",
+    "name": "Zafer Gölgeli"
   },
   {
-    "job": "Account Manager",
-    "org": "TalenTech Solutions",
-    "tel": "+15852826326",
-    "mail": "mike.clain@talentechsolutions.com",
-    "name": "Mike Clain"
-  },
-  {
-    "job": "Account Manager",
-    "org": "Rainpark Solutions",
-    "tel": "+15853161820",
-    "mail": "ali.aker@rainparksolutions.com",
-    "name": "Ali Aker"
+    "job": "Software Development Manager",
+    "org": "PayTR Ödeme ve Elektronik Para Kuruluşu A.Ş.",
+    "tel": "+90 553 599 04 69",
+    "mail": "",
+    "name": "Ahmet Ülker"
   }
 ]

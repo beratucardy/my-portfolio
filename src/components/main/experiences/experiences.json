@@ -1,12 +1,12 @@
 [
   {
-    "company": "Bootcamp",
-    "title": "Assistant Frontend Developer Instructor",
-    "date": "April, 2023 - Present",
-    "location": "United States",
+    "company": "PayTR Ödeme ve Elektronik Para Kuruluşu A.Ş.",
+    "title": "Frontend Developer",
+    "date": "May, 2024 - Present",
+    "location": "Turkey",
     "locationType": "Remote",
     "jobType": "Full-time",
-    "desc": "Provided personalized guidance to aspiring frontend developers through one-on-one sessions, aiding them in preparing effective resumes and LinkedIn profiles to enhance their professional branding. Conducted individualized mock interviews, offering constructive feedback and tailored strategies to help students develop strong interview skills and boost their confidence. Collaborated with students in designing and executing frontend projects as part of the bootcamp curriculum, offering hands-on assistance and mentorship to ensure project success. Mentored students in refining their frontend coding skills, offering guidance on HTML, CSS, JavaScript, and popular frontend libraries/frameworks to foster their technical proficiency. Delivered comprehensive lessons on interview preparation techniques, including behavioral and technical aspects, resulting in increased student performance in real job interviews. Assisted students in preparing for market entry by offering insights into industry trends, resume optimization, and job market navigation, leading to improved placement rates."
+    "desc": "Migrated large-scale frontend modules from a Vue 2 / Nuxt 2 / Vuex architecture to Vue 3 / Nuxt 3 / Pinia to improve maintainability and long-term scalability. Refactored legacy components and pages by applying modern frontend best practices and Composition API patterns. Developed complex, data-driven admin panels using advanced table solutions such as Vuetify DataTable Server and DevExpress DataGrid. Implemented dynamic filtering, sorting, pagination, and server-side data handling to efficiently manage high-volume transactional data. Built reusable UI components and established standardized patterns across multiple modules to ensure consistency and promote code reuse. Integrated REST APIs with structured state management, effectively handling loading states, error scenarios, and edge cases. Collaborated closely with backend teams to align frontend implementations with API contracts and business requirements. Contributed to performance optimizations, bug fixes, and incremental refactoring efforts across existing systems. Implemented role- and permission-based UI rendering in alignment with defined authorization rules."
   },
   {
     "company": "BudunAI Bilişim ve Teknoloji San. Tic. Ltd. Şti.",
@@ -18,30 +18,12 @@
     "desc": "Contributed to the development of an artificial intelligence-enhanced job search platform similar to LinkedIn for Tubitak, utilizing cutting-edge technologies and innovative design principles to create a seamless user experience. Led the design and implementation of the company's website, incorporating modern web development techniques and responsive design to ensure compatibility across various devices and browsers. Managed projects efficiently using Trello, collaborating with team members and stakeholders to prioritize tasks, track progress, and meet project milestones effectively. Spearheaded the development of a mobile gaming application, leveraging mobile development frameworks and best practices to deliver a high-quality and engaging gaming experience to users."
   },
   {
-    "company": "Rent a Car Project",
-    "title": "Mobile Developer",
+    "company": "Bootcamp",
+    "title": "Assistant Frontend Developer Instructor",
     "date": "July, 2023 - September, 2023",
     "location": "United States",
     "locationType": "Remote",
-    "jobType": "Internship",
-    "desc": "Led the development of a mobile application for a Rent A Car project, implementing user-friendly features and ensuring seamless performance across platforms. Collaborated with cross-functional teams to design and develop the mobile application, enhancing user experience and optimizing functionality. Utilized agile methodologies to manage the project, ensuring timely delivery and meeting client requirements effectively. Implemented innovative solutions to improve the application's performance and user engagement, resulting in positive feedback from users. Conducted thorough testing and debugging to ensure the application's reliability and performance under various conditions."
-  },
-  {
-    "company": "E-Commerce Project",
-    "title": "Frontend Developer",
-    "date": "March, 2023 - June, 2023",
-    "location": "United States",
-    "locationType": "Remote",
-    "jobType": "Internship",
-    "desc": "Worked as part of the team on projects; receive regular guidance. Worked closely with team members to create consistent, reusable, and maintainable code; designed new software systems or updates to existing systems. Coordinated and participated in implementation, testing, and support. Responsible for understanding how their work fits into the project objectives. Ensured each build functions correctly on mobile, tablet, and desktop devices."
-  },
-  {
-    "company": "Rent a Car Project",
-    "title": "Frontend Developer",
-    "date": "October, 2022 - March, 2023",
-    "location": "United States",
-    "locationType": "Remote",
-    "jobType": "Internship",
-    "desc": "Followed agile & scrum methods for the development of the product. Involving in building multiple UI components from design stage to production stage. Performed validation of completed sites including the debugging and testing of code. Designed a responsive website using Bootstrap grid system to layout contents that fit different devices including mobile, tablet and desktop. Cross-browser tested sites in Microsoft Edge, Safari, Firefox, Chrome and mobile browsers."
+    "jobType": "Full-time",
+    "desc": "Provided personalized guidance to aspiring frontend developers through one-on-one sessions, aiding them in preparing effective resumes and LinkedIn profiles to enhance their professional branding. Conducted individualized mock interviews, offering constructive feedback and tailored strategies to help students develop strong interview skills and boost their confidence. Collaborated with students in designing and executing frontend projects as part of the bootcamp curriculum, offering hands-on assistance and mentorship to ensure project success. Mentored students in refining their frontend coding skills, offering guidance on HTML, CSS, JavaScript, and popular frontend libraries/frameworks to foster their technical proficiency. Delivered comprehensive lessons on interview preparation techniques, including behavioral and technical aspects, resulting in increased student performance in real job interviews. Assisted students in preparing for market entry by offering insights into industry trends, resume optimization, and job market navigation, leading to improved placement rates."
   }
 ]

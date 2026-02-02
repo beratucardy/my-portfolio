@@ -1,5 +1,8 @@
 [
   {
-    "tool": "HTML (HTML5), CSS (CSS3), Bootstrap, Tailwind CSS, JavaScript, SASS, React, Next.js, React Native, Redux.js, Redux Toolkit, Postman, RESTful APIs, Webpack, Unit Testing, NPM, Node.js, SDLC, Jira, Trello, Scrum, Agile Methods, CRM, Git, Github, Expo, Figma, AutoCAD, Microsoft Word, Microsoft Excel, PowerPoint"
+    "name1": "Primary Skills",
+    "primarySkills": "HTML, CSS, Bootstrap, Tailwind, SASS, JavaScript, TypeScript, React.js, Next.js, Redux.js, Vue.js, Nuxt.js, Vuex, Pinia, React Native, DataTable, DevExpress, Unit Testing, Vitest, Git",
+    "name2": "Backend Knowledge",
+    "backendKnowledge": "Node.js, Express.js, GraphQL, Deno, MongoDB, MySQL, RESTful APIs, Postman, WebSockets"
   }
 ]
